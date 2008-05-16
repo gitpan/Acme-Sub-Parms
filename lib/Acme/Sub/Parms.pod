@@ -432,6 +432,8 @@ BindParms let you do more complicated things, then use a callback.
 
 =head1 CHANGES
 
+ 1.01 2008.05.16 - Fixed minor permissions problem
+
  1.00 2008.05.13 - Initial public release.
 
 =head1 ERRORS
@@ -461,7 +463,7 @@ Benjamin Franz <snowhare@cpan.org>
 
 =head1 VERSION
 
-Version 1.00 - 2008.05.13
+Version 1.01 - 2008.05.16
 
 =head1 COPYRIGHT
 
