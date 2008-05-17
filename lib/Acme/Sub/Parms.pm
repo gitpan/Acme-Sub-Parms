@@ -4,7 +4,7 @@ use strict;
 use Filter::Util::Call;
 
 BEGIN {
-    $Acme::Sub::Parms::VERSION  = '1.01';
+    $Acme::Sub::Parms::VERSION  = '1.02';
     %Acme::Sub::Parms::args     = ();
     %Acme::Sub::Parms::raw_args = ();
     $Acme::Sub::Parms::line_counter   = 0;

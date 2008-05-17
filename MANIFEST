@@ -6,7 +6,9 @@ examples/bench-parm-parsers-ci.pl
 examples/bench-parm-parsers-cs-novalid.pl
 examples/bench-parm-parsers-cs.pl
 examples/dereferenced-anon-hash.pl
+examples/function_use_example.pl
 examples/line-warn.pl
+examples/object_use_example.pl
 examples/testing-optimizations.pl
 GPL_License.txt
 lib/Acme/Sub/Parms.pm
